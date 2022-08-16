@@ -1,0 +1,15 @@
+{
+  "name": "json-google-translate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "translate": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/translate": "^6.0.2",
+    "google-translate": "^3.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "source_team": "Quellteam",
+    "remove_workflow": "Arbeitsablauf entfernen",
+    "this_will_remove_any_succeeding_workflows_proceed": "Dadurch werden alle nachfolgenden Workflows entfernt. Fortfahren?",
+    "edit_workflow": "Arbeitsablauf bearbeiten",
+    "deep": {
+        "one": "Einer",
+        "three": "Drei",
+        "four": {
+            "two_is_not_missing": "Zwei"
+        }
+    }
+}

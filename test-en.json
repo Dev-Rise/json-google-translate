@@ -1,0 +1,13 @@
+{
+  "source_team": "Source Team",
+  "remove_workflow": "Remove Workflow",
+  "this_will_remove_any_succeeding_workflows_proceed": "This will remove any succeeding workflows. Proceed?",
+  "edit_workflow": "Edit Workflow",
+  "deep": {
+    "one": "One",
+    "three": "Three",
+    "four": {
+      "two_is_not_missing": "Two"
+    }
+  }
+}
